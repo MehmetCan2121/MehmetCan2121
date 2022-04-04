@@ -40,7 +40,7 @@ Technologies:<br><br>
   </summary>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=yavuzim&show_icons=true&theme=tokyonight" height="180">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzim&layout=compact&theme=tokyonight" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=MehmetCan2121&show_icons=true&theme=tokyonight" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCan2121&layout=compact&theme=tokyonight" height="180">
   </p>
           <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" width="70" height="70" title="Linkedin"></a>
