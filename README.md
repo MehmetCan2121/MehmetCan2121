@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 
 Technologies:<br><br>
 <img src="https://camo.githubusercontent.com/e5f1cbf59a8752f8a31ba28ea3b788daf4c188a84870865acfc16c5567bfd5ce/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f632d73686172702d632d6c6f676f2d303246313737313442412d7365656b6c6f676f2e636f6d2e706e67" alt="csharp" width="27" height="30" data-canonical-src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="max-width:100%;">
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html5" width="30" height="30" style="max-width:100%;"> 
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="css3" width="28" height="28" style="max-width:100%;"> 
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/kotlin-512.png" alt="kotlin" width="30" height="30" style="max-width:100%;">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="javas" width="40" height="40" style="max-width:100%;">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html5" width="30" height="30" style="max-width:100%;"> 
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="css3" width="28" height="28" style="max-width:100%;"> 
+
+
 
 - 📫 How to reach me: mehmetcanmut21@gmail.com <br><br>
  <a href="https://www.linkedin.com/in/mehmetcan-mut-8a48851b4/">
